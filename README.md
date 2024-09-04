@@ -18,14 +18,14 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 
 #### Objectives: 
 * Navigate to [auth0.com](https://mlh.link/ghwcloud24-auth0) and create your own account! 
-* Share a screenshot of your deployed application on our [submission form](https://hackp.ac/ghwform)!
+* Share a screenshot of your deployed application on our [submission form](https://mlh.link/ghwform)!
 
 ## Challenge 2 
 ### Implement Login and Logout with your Auth0 SDK of choice
 
 #### Objectives: 
 * Choose one of our Quick Start guides for your language or framework of choice and follow the instructions for creating user-facing login and logout for your application.
-* Share a screenshot of your login page on our [submission form](https://hackp.ac/ghwform)! 
+* Share your code on our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation: 
 * [Auth0 Quick Start guide documentation](https://mlh.link/ghwcloud24-auth0-getstarted)
@@ -35,7 +35,7 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 #### Objectives: 
 * Follow this Google Social Connect guide which will allow you to implement social login with Google!
 * This means users will be able to log in to your application using Google
-* Share a screenshot of your project in our [submission form](https://hackp.ac/ghwform)! 
+* Share your code on our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 
 #### Documentation:
@@ -45,7 +45,7 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 ### Customize your login box
 #### Objectives: 
 * Follow Auth0's step by step guide to learn how to customize the color, font, and logo of your login form.
-* Share the link to your deployed application in our [submission form](https://hackp.ac/ghwform)!
+* Share your code on our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation:
 * [Check out Auth0's step by step walk through](https://mlh.link/ghwcloud24-auth0-universal)
@@ -55,7 +55,7 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 #### Objectives: 
 * Take a screenshot o fyour customized Login and tweet or post it on LinkedIn
 * [Tag @auth0 and use the hashtag: #Auth0MLH-GHW](https://mlh.link/ghwcloud24-auth0-twitter)
-* Share the link to your post in our [submission form](https://hackp.ac/ghwform)!
+* Share the link to your post in our [submission form](https://mlh.link/ghwform)!
 
 # Resources
 * [Auth0 Account Signup](https://mlh.link/ghwcloud24-auth0-signup)

@@ -50,10 +50,10 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 #### Documentation:
 * [Check out Auth0's step by step walk through](https://mlh.link/ghwcloud24-auth0-universal)
 
-## Coding Challenge 5
+## Challenge 5
 ### Tweet or post on Linkedin with a screenshot of your customized Login box
 #### Objectives: 
-* Take a screenshot o fyour customized Login and tweet or post it on LinkedIn
+* Take a screenshot of your customized Login and tweet or post it on LinkedIn
 * [Tag @auth0 and use the hashtag: #Auth0MLH-GHW](https://mlh.link/ghwcloud24-auth0-twitter)
 * Share the link to your post in our [submission form](https://mlh.link/ghwform)!
 
